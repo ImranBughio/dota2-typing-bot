@@ -1,0 +1,6 @@
+.env
+dotatyper
+dotatyper.log
+debug/
+*.png
+.DS_Store
